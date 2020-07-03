@@ -46,7 +46,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "uniqCompNum": 11,
+    "uniqCompNum": 15,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png"
   },
